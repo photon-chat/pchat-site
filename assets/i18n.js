@@ -75,7 +75,7 @@
     'tos.s7.p2': { en: '7.2 Users who violate this agreement may have their access restricted or terminated.', 'zh-Hans': '7.2 违反本协议的用户可能被限制或终止使用权。', 'zh-Hant': '7.2 違反本協議的用戶可能被限制或終止使用權。' },
 
     'tos.s8.h':  { en: '8. Contact Us', 'zh-Hans': '8. 联系我们', 'zh-Hant': '8. 聯繫我們' },
-    'tos.s8.p':  { en: '8.1 If you have any questions, please contact us at <a href="mailto:info@visionarycreativeph.com">info@visionarycreativeph.com</a>.', 'zh-Hans': '8.1 如果您有任何问题，请通过 <a href="mailto:info@visionarycreativeph.com">info@visionarycreativeph.com</a> 与我们联系。', 'zh-Hant': '8.1 如果您有任何問題，請透過 <a href="mailto:info@visionarycreativeph.com">info@visionarycreativeph.com</a> 與我們聯繫。' },
+    'tos.s8.p':  { en: '8.1 If you have any questions, please contact us at <a href="mailto:pchat2026@gmail.com">pchat2026@gmail.com</a>.', 'zh-Hans': '8.1 如果您有任何问题，请通过 <a href="mailto:pchat2026@gmail.com">pchat2026@gmail.com</a> 与我们联系。', 'zh-Hant': '8.1 如果您有任何問題，請透過 <a href="mailto:pchat2026@gmail.com">pchat2026@gmail.com</a> 與我們聯繫。' },
 
     /* ────── privacy.html ────── */
     'priv.title':    { en: 'Privacy Policy \u2014 PChat', 'zh-Hans': '隐私政策 \u2014 PChat', 'zh-Hant': '隱私政策 \u2014 PChat' },
@@ -110,7 +110,7 @@
     'priv.s7.p':  { en: '7.1 We may update this Privacy Policy. Updated versions will be published in the application or on the website.', 'zh-Hans': '7.1 我们可能会更新本隐私政策，变更后的版本将在本应用或网站上发布。', 'zh-Hant': '7.1 我們可能會更新本隱私政策，變更後的版本將在本應用或網站上發布。' },
 
     'priv.s8.h':  { en: '8. Contact Us', 'zh-Hans': '8. 联系我们', 'zh-Hant': '8. 聯繫我們' },
-    'priv.s8.p':  { en: '8.1 If you have any questions about this policy, please contact us at <a href="mailto:info@visionarycreativeph.com">info@visionarycreativeph.com</a>.', 'zh-Hans': '8.1 如果您对本政策有任何疑问，请通过 <a href="mailto:info@visionarycreativeph.com">info@visionarycreativeph.com</a> 与我们联系。', 'zh-Hant': '8.1 如果您對本政策有任何疑問，請透過 <a href="mailto:info@visionarycreativeph.com">info@visionarycreativeph.com</a> 與我們聯繫。' },
+    'priv.s8.p':  { en: '8.1 If you have any questions about this policy, please contact us at <a href="mailto:pchat2026@gmail.com">pchat2026@gmail.com</a>.', 'zh-Hans': '8.1 如果您对本政策有任何疑问，请通过 <a href="mailto:pchat2026@gmail.com">pchat2026@gmail.com</a> 与我们联系。', 'zh-Hant': '8.1 如果您對本政策有任何疑問，請透過 <a href="mailto:pchat2026@gmail.com">pchat2026@gmail.com</a> 與我們聯繫。' },
 
     /* ────── faq.html ────── */
     'faq.title':   { en: 'FAQ \u2014 PChat', 'zh-Hans': '常见问题 \u2014 PChat', 'zh-Hant': '常見問題 \u2014 PChat' },
@@ -157,7 +157,7 @@
     'faq.g5.a3':   { en: 'Long-press on a message or open a user/group profile and tap "Report". Our moderation team will review all reports promptly.', 'zh-Hans': '长按消息或打开用户/群组资料页，点击"举报"。我们的审核团队会及时审核所有举报。', 'zh-Hant': '長按訊息或開啟用戶/群組資料頁，點擊「檢舉」。我們的審核團隊會及時審核所有檢舉。' },
 
     'faq.contact.h': { en: 'Still Have Questions?', 'zh-Hans': '还有其他问题？', 'zh-Hant': '還有其他問題？' },
-    'faq.contact.p': { en: 'Reach out to us at <a href="mailto:info@visionarycreativeph.com">info@visionarycreativeph.com</a> and we\u2019ll be happy to help.', 'zh-Hans': '请通过 <a href="mailto:info@visionarycreativeph.com">info@visionarycreativeph.com</a> 联系我们，我们很乐意帮助你。', 'zh-Hant': '請透過 <a href="mailto:info@visionarycreativeph.com">info@visionarycreativeph.com</a> 聯繫我們，我們很樂意幫助你。' }
+    'faq.contact.p': { en: 'Reach out to us at <a href="mailto:pchat2026@gmail.com">pchat2026@gmail.com</a> and we\u2019ll be happy to help.', 'zh-Hans': '请通过 <a href="mailto:pchat2026@gmail.com">pchat2026@gmail.com</a> 联系我们，我们很乐意帮助你。', 'zh-Hant': '請透過 <a href="mailto:pchat2026@gmail.com">pchat2026@gmail.com</a> 聯繫我們，我們很樂意幫助你。' }
   };
 
   /* ── Detect language ── */
